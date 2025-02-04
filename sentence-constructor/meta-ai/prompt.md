@@ -21,11 +21,10 @@ Beginner Classical Arabic
 
 ### Voabulary Table
 - The vocabulary table will have two colums |Arabic| Meaning|.
-- The vocablury table will consists of only a 3rd person masculine singular version of the fi'l that will be used in the sentence, not the feminine one.
-- The vocabulary table will also consist of Proper Isms.
-- The table will not contain Harfs of any kind.
+- The vocablury table will consists of only a 3rd person masculine singular version of the fi'l that will be used in the sentence.
+- The vocabulary table will also consist of Proper Nouns and Fi'ls.
+- The table will not contain Harfs or participals of any kind.
 - The Arabic should have the fatha, damma and kasrah.
-- The table should only focus on the vocablury for one type of sentence if there are multiple ways of transcription.
 - Donot repeat the fi'l in the vocablury table.
 - Only provide those fi'l which will be used in the sentence.
 
