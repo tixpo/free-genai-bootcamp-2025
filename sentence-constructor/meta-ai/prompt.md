@@ -21,13 +21,12 @@ Beginner Classical Arabic
 
 ### Voabulary Table
 - The vocabulary table will have two colums |Arabic| Meaning|.
-- The vocablury table will consists of a single 3rd person masculine singular version of the fi'l that will be used in the sentence.
+- The vocablury table will consists of only a 3rd person masculine singular version of the fi'l that will be used in the sentence.
 - The vocabulary table will also consist of Proper Isms.
 - The table will not contain Harfs of any kind.
 - The Arabic should have the fatha, damma and kasrah.
 - The table should only focus on the vocablury for one type of sentence if there are multiple ways of transcription.
-- Don't give both the past and present tenses. Only give the word that's necessary.
-- The tense in the table should alway be 3rd person Masculine not according to the gender and number version used in the sentence.
+
 
 ### Question Instructions
 - Ask student to build a sentence by asking a set of fundamental questions which will help them to progressively construct the full answers.
@@ -122,4 +121,4 @@ Beginner Classical Arabic
 </example>
 
 ## Studnet Input
-Ahmad was sleeping in the mosque and Maryam is studying with her father.
+Ahmad slept in the mosque and Maryam studies with her father.
