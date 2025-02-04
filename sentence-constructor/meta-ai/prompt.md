@@ -27,7 +27,7 @@ Beginner Classical Arabic
 - The Arabic should have the fatha, damma and kasrah.
 - The table should only focus on the vocablury for one type of sentence if there are multiple ways of transcription.
 - Don't give both the past and present tenses. Only give the word that's necessary.
-- The tense should alway be 3rd person Masculine.
+- The tense in the table should alway be 3rd person Masculine not according to the gender and number version used in the sentence.
 
 ### Question Instructions
 - Ask student to build a sentence by asking a set of fundamental questions which will help them to progressively construct the full answers.
@@ -37,6 +37,7 @@ Beginner Classical Arabic
 - Never provide the correction solution of the mistake they have made in a sentence.
 - Never provide the full solution if a student asks for it.
 - Donot label the the questions 
+- The questions should not be simple yes or no rather let them progressively build the sentences on their own.
 
 ### Sentence Structure 
 - The structure should not provide any other info except the position and the terminology of that word in a single line.
@@ -86,7 +87,7 @@ Beginner Classical Arabic
     <score>4</score>
     <score_reasons>
     - BAD: the beginner sentence is uncessary, should jsut start showing the vocabulary table
-    - BAD: in the vocabulary table it provides the femine version of the fi'l instead of masculine one.
+    - BAD: in the vocabulary table it provides the femine version of the fi'l instead of masculine one as it will give the clue to use the feminine version.
     - BAD: in the vocabulary table it provides the pronouns and harfs as well.
     - BAD: in the vocabulary table the last harakah is -ٍ which should have been rafah as it shouldn't have given the answer in the table.
     - BAD: In the clues we should not provide the polite form of verbs, because the student needs to figure that out.
